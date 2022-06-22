@@ -26,10 +26,6 @@
         android:layout_height="wrap_content"
         android:text="send"
         tools:ignore="MissingConstraints"
-<<<<<<< HEAD
-
-=======
->>>>>>> xyz
         />
 
 
